@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://24inblogger.blogspot.com/](https://24inblogger.blogspot.com/)
 
-- 💬 Ask me about **.Net Core, Flutter and React**
+- 💬 Ask me about **.Net Core, NodeJs and React**
 
 - 📫 How to reach me **sezersinanoglu@gmail.com**
 
